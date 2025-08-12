@@ -24,7 +24,7 @@ SOFTWARE.
 -->
 
 <p align="center">
-<img src="[https://raw.githubusercontent.com/Universidade-Livre/imagens/refs/heads/main/outras/placeholder.png](https://wallpapers.com/images/hd/full-hd-computer-desktop-home-setup-49nbyb2mlqi6h9r8.jpg)">
+<img src="https://www.publicdomainpictures.net/pictures/330000/nahled/technology-2020-15851598640jb.jpg">
 </p>
 <p align="center">
 <h3 align="center">ADS</h3>
@@ -33,7 +33,7 @@ SOFTWARE.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-assuncaooh">
-    <img alt="LinkedIn" width="25" src="https://github.com/Universidade-Livre/imagens/blob/main/png/twitch.png">
+    <img alt="LinkedIn" width="25" src="https://freesvg.org/img/linkedin.png">
   </a>
 </p>
 
@@ -48,7 +48,7 @@ SOFTWARE.
 
 # Sumário
 
-O Curso de Análise e Desenvolvimento de Sistemas oferecido é **uma educação completa em ADS** 
+Este repositório possui o Curso de Análise e Desenvolvimento de Sistemas oferecido **uma educação completa em ADS** 
 usando materiais on-line e em Português do Brasil.
 Este Curso não é pensado para treinamento em tecnologias específicas ou focado apenas em habilidades profissionais direcionadas ao mercado, mas sim para aqueles que desejam uma educação própria, **com qualidade**, fundada nos conceitos fundamentais do desenvolvimento de sistemas
 e é planejada para alunos com disciplina, comprometimento e (o mais importante) bons hábitos de estudo majoritariamente independentes,
@@ -90,7 +90,6 @@ Apenas publique em seu GitHub e espaços públicos os materiais que seu Curso pe
 # Comunidade
 
 - Você também pode interagir sobre questões a respeito dos problemas do Curso, propor mudanças de Currículo e outras coisas relacionadas por meio das nossas [issues](#/issues). Sinta-se à vontade para abrir discussões lá.
-- Adicione a Universidade Brasileira Livre no seu perfil do [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6889534067805605889)!
 
 # Antes de começar
 
@@ -122,7 +121,7 @@ Você pode fazer os cursos na ordem, onde, e como preferir. Este é o maior bene
 
 ### Dependências entre assuntos
 
-<a href="#"><img src="[https://github.com/user-attachments/assets/657953c9-30c3-42b7-87bc-52fc2e6320d7](https://wiki.foz.ifpr.edu.br/wiki/images/thumb/d/dd/Tads_esquema_grafico_disciplinas.jpg/800px-Tads_esquema_grafico_disciplinas.jpg)" /></a>
+<a href="#"><img width="6314" height="1246" alt="image" src="https://github.com/user-attachments/assets/5d901864-1ec9-4eb1-9633-53f8483512e0" /></a>
 
 (_Clique na imagem para ampliar._)
 
@@ -133,11 +132,11 @@ A grade curricular abaixo está dividida em semestres para melhor visualização
 ### 1º Semestre
 | Semestre | Aulas em Vídeo | Pré-requisitos | Leitura Recomendada |
 |---|---|---|---|
-| 1 | [Algoritmos e Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) | - | [Livros sobre Algoritmos](extras/bibliography/01_algorithms.md) |
-| 1 | [Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) | - | [Livros sobre Lógica de Programação](extras/bibliography/02_programming_logic.md) |
-| 1 | [Matemática Básica](https://www.youtube.com/playlist?list=PLTPg64KdGgYhACfQUtMf3CuhWOfLoTf_a) | - | [Livros sobre Matemática](extras/bibliography/03_mathematics.md) |
-| 1 | [Fundamentos de TI](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) | - | [Livros sobre Fundamentos de TI](extras/bibliography/04_it_fundamentals.md) |
-| 1 | [Metodologia Científica](https://www.youtube.com/playlist?list=PLclUQno6PMpQO0-XrDwWsPzRzEvjwp1__) | - | [Livros sobre Metodologia](extras/bibliography/05_methodology.md) |
+| 1 | [Algoritmos e Programação](https://www.youtube.com/watch?v=ayGgEfDDLu4&list=PLnex8IkmReXwS_yANKynWj29M_VIWztfS) | - | [Livros sobre Algoritmos](extras/bibliography/01_algorithms.md) |
+| 1 | [Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfX) | - | [Livros sobre Lógica de Programação](extras/bibliography/02_programming_logic.md) |
+| 1 | [Matemática Básica](https://www.youtube.com/watch?v=fD62cRHZ29w&list=PLO3hBdfBc4pE-wJCvjKTiBxkpIUvktBHy) | - | [Livros sobre Matemática](extras/bibliography/03_mathematics.md) |
+| 1 | [Fundamentos de TI](https://www.youtube.com/watch?v=PnuhDzgjITA&list=PLe2l3gvn1Z2wiR3ysyBIv3SE0A3B-N3RC) | - | [Livros sobre Fundamentos de TI](extras/bibliography/04_it_fundamentals.md) |
+| 1 | [Metodologia Científica](https://www.youtube.com/watch?v=pVfKn64xWTY&list=PLjz-295APz947wWfTFv7PPf2jX0UwBOYf) | - | [Livros sobre Metodologia](extras/bibliography/05_methodology.md) |
 
 ---
 
@@ -237,7 +236,7 @@ O que fazer após isso? Bem, na verdade as possibilidades são sem limites e int
 </p>
 
 ## Administração
-  - [Matheus Assunção](https://github.com/matheusassuncao): Fundador e Administrador da UBL-ADS
+  - [Matheus Assunção](https://github.com/matheusassuncao): Ajudante na organização do repositorio
 
 ## Contribuidores
 Nosso muito obrigado a todas essas pessoas!
